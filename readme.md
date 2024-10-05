@@ -30,5 +30,3 @@ Python 3.x
 pandas
 matplotlib
 seaborn
-### License
-MIT License.
